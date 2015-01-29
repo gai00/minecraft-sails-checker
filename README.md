@@ -1,2 +1,3 @@
-# minecraft-sails-checker
-This is web application to check minecraft status.
+# minecraft-checker
+
+a [Sails](http://sailsjs.org) application
